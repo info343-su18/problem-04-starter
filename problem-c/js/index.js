@@ -3,7 +3,7 @@
 //Get a reference to the `<canvas>` element in the HTML
 
 
-//Call the `getContext()` method (passing a parameter of `'2'1) to get access
+//Call the `getContext()` method (passing a parameter of `'2d'`) to get access
 //to the canvas's context brush.
 
 
