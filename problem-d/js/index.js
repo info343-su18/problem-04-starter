@@ -54,7 +54,7 @@
 //just created. Then use the `.text()` method to specify the text of the label: "1."
 
 
-//Attach the label to the DOM tree BEFORE the input.
+//Attach the div containing the label to the DOM tree BEFORE the input.
 //Hint: see http://api.jquery.com/category/manipulation/dom-insertion-outside/
 //At this point you should see the label in a grey box above the input
 
